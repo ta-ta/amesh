@@ -1,0 +1,7 @@
+#!/bin/bash
+
+path = 
+
+python $path/amesh_once.py
+
+qlmanage -p $path/part.png >& /dev/null
